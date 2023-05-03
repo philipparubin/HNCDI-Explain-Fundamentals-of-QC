@@ -2,10 +2,11 @@
 
 ## Local instructions
 
+```
 python -m venv .venv
 pip install poetry
 poetry install
-
+```
 
 ## Getting started
 
