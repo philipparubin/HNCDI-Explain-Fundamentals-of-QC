@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "hncdi-explain-3-tutorials"
+version = "0.1.0"
+description = ""
+authors = ["Philippa Rubin <philippa.rubin@stfc.ac.uk>"]
+readme = "README.md"
+packages = [{include = "hncdi_explain_3_tutorials"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+qiskit = "^0.42.1"
+
+[tool.poetry.group.dev.dependencies]
+notebook = "^6.5.4"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
