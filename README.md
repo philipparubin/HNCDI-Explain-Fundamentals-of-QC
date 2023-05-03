@@ -1,5 +1,10 @@
 # HNCDI-Explain-3-Tutorials
 
+## Local instructions
+
+python -m venv .venv
+pip install poetry
+poetry install
 
 
 ## Getting started
