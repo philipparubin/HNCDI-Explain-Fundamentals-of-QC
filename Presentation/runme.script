@@ -1,0 +1,7 @@
+#!/bin/bash
+
+pdflatex Beamer_UKRI_Hartree_Brand_2021_white_on_blue_title.tex
+pdflatex Beamer_UKRI_Hartree_Brand_2021_white_on_blue_title.tex
+
+pdflatex Beamer_UKRI_Hartree_Brand_2021_blue_title.tex
+pdflatex Beamer_UKRI_Hartree_Brand_2021_blue_title.tex
