@@ -1,0 +1,120 @@
+% This is a Beamer LaTeX template for the STFC Hartree Centre using the May 2021 brand identity.
+% Written by Viktor Zolyomi.
+\documentclass[english]{beamer}
+\usepackage{helvet}
+\renewcommand{\familydefault}{\sfdefault}
+\usepackage[T1]{fontenc}
+\usepackage[latin9]{inputenc}
+\usepackage{amssymb}
+
+\makeatletter
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Textclass specific LaTeX commands.
+% this default might be overridden by plain title style
+\newcommand\makebeamertitle{\frame{\maketitle}}%
+% (ERT) argument for the TOC
+\AtBeginDocument{%
+  \let\origtableofcontents=\tableofcontents
+  \def\tableofcontents{\@ifnextchar[{\origtableofcontents}{\gobbletableofcontents}}
+  \def\gobbletableofcontents#1{\origtableofcontents}
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% User specified LaTeX commands.
+%\usetheme{Warsaw}
+\usetheme{Darmstadt}
+% or ...
+
+    \usefonttheme{structurebold}
+    \setbeamerfont{title}{series=\bfseries,parent=structure}
+    \setbeamerfont{subtitle}{size=\scriptsize,series=\bfseries,parent=structure}
+    \setbeamerfont{author}{size=\scriptsize,series=\bfseries,parent=structure}
+    \setbeamerfont{institute}{size=\scriptsize,series=\bfseries,parent=structure}
+    \setbeamerfont{date}{size=\scriptsize,series=\bfseries,parent=structure}
+
+\setbeamercovered{transparent}
+% or whatever (possibly just delete it)
+
+\usepackage{caption}
+\usepackage[absolute,overlay]{textpos}
+\setbeamertemplate{footline}[frame number]
+\usepackage{graphbox}
+
+\beamertemplatenavigationsymbolsempty
+\setbeamertemplate{headline}{}
+
+\setbeamertemplate{footline}{
+\includegraphics[align=c,height=0.9cm]{UKRI_STFC_HARTREE_CENTRE_RGB.png}
+\hfill
+\usebeamercolor[fg]{page number in head/foot}
+\usebeamerfont{page number in head/foot}
+\insertframenumber\,/\,\inserttotalframenumber\kern1em
+}
+\definecolor{bluegreen}{RGB}{3, 166, 155}
+%\definecolor{newblue}{RGB}{18, 18, 38}
+%\definecolor{newgray}{RGB}{40, 40, 40}
+\definecolor{newbluegreen}{RGB}{0, 190, 213}
+\definecolor{newblue}{RGB}{0, 48, 136}
+\definecolor{newgray}{RGB}{103, 103, 103}
+\definecolor{newred}{RGB}{255, 90, 90}
+\definecolor{newlightblue}{RGB}{30, 93, 248}
+\definecolor{newdarkblue}{RGB}{46, 45, 98}
+%\setbeamercolor{frametitle}{bg=bluegreen, fg=white}
+%\setbeamercolor{title}{bg=bluegreen, fg=white}
+\setbeamercolor{normal text}{fg=newgray}
+
+
+% %%%%%%%%%%%%%%%%%%%%%%%%
+%    TITLE PAGE OPTIONS
+% %%%%%%%%%%%%%%%%%%%%%%%%
+%
+% comment out the following line if you prefer a rounded box in the title along with drop shadows:
+\setbeamertemplate{frametitle}[default]
+\setbeamertemplate{title page}[default][colsep=-4bp,rounded=false]
+% comment out the above line (i.e. only the title page line) and uncomment the one below for rounded box without shadow:
+%\setbeamertemplate{title page}[default][colsep=-4bp,rounded=true]
+%
+% uncomment the 2 lines below and comment out the 2 lines below them for white title on blue background:
+\setbeamercolor{title}{bg=newblue,fg=white}
+\setbeamercolor{frametitle}{bg=newblue, fg=white}
+% comment out the above 2 lines and uncomment the 2 below for blue title on white:
+%\setbeamercolor{title}{bg=white,fg=newblue}
+%\setbeamercolor{frametitle}{bg=white,fg=newblue}
+%
+% %%%%%%%%%%%%%%%%%%%%%%%%
+
+\title{Set presentation title here}
+\author{Set author here}
+\date{Set date here}
+
+\makeatother
+
+\usepackage{babel}
+\begin{document}
+{   \usebackgroundtemplate{{ \includegraphics[width=1.05\paperwidth]{Pattern.png}}}   \begin{frame}     \titlepage   \end{frame} }
+
+%\pgfdeclareimage[height=0.5cm]{institution-logo}{UKRI_STFC_HARTREE_CENTRE_RGB.png}
+%\logo{\pgfuseimage{institution-logo}}
+
+%\AtBeginSubsection[]{%
+%  \frame<beamer>{ 
+%    \frametitle{Outline}   
+%    \tableofcontents[currentsection,currentsubsection] 
+%  }
+%}
+
+%\beamerdefaultoverlayspecification{<+->}
+
+\section{Set Section Title Here}
+\begin{frame}{\textbf{Set Frame Title Here}}
+
+\begin{itemize}
+\item Add content here
+\begin{itemize}
+\item Add content here
+\item Add content here
+\item Add content here
+\end{itemize}
+\item Add content here
+\end{itemize}
+\end{frame}
+
+\end{document}
