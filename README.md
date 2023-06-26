@@ -4,9 +4,9 @@ This repository contains files for the HNCDI Explain course, "Fundamentals of Qu
 
 There are two exercises:
 
-1. ```grover-tutorial-<number>-exercise.ipynb``` Upload this file from within the IBM Quantum Lab. There are three Grover tutorials. Understand and implement Grover's searching algorithm.
+1. ```grover-tutorial-<number>-exercise.ipynb``` Upload this file from within the IBM Quantum Lab. There are three Grover tutorials. Understand and implement Grover's searching algorithm. Created by Michael Garn, [michael.garn@stfc.ac.uk]((mailto:michael.garn@stfc.ac.uk)).
 
-2. ```shor-tutorial-exercise.ipynb``` Upload this file from within the IBM Quantum Lab. Understand and implement Shor's prime factorisation algorithm.
+2. ```shor-tutorial-exercise.ipynb``` Upload this file from within the IBM Quantum Lab. Understand and implement Shor's prime factorisation algorithm. Created by Dilhan Manawadu, [dilhan.manawadu@stfc.ac.uk](mailto:dilhan.manawadu@stfc.ac.uk).
 
 You can get this code in a few different ways, pick whichever you feel confident to do.
 
