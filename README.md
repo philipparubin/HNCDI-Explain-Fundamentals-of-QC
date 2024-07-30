@@ -11,6 +11,12 @@ There are two exercises:
 You can get this code in a few different ways, pick whichever you feel confident to do.
 
 1. Use the provided links to load the notebooks in a Google Colab environment (Please note that you will require a Google account and an IBM quantum account),
+    - Grover's algorithm
+        * Tutorial 1: https://colab.research.google.com/github/philipparubin/HNCDI-Explain-Fundamentals-of-QC/blob/main/grover-tutorial-exercises/grover-tutorial-1-exercise.ipynb
+        * Tutorial 2: https://colab.research.google.com/github/philipparubin/HNCDI-Explain-Fundamentals-of-QC/blob/main/grover-tutorial-exercises/grover-tutorial-2-exercise.ipynb
+        * Tutorial 3: https://colab.research.google.com/github/philipparubin/HNCDI-Explain-Fundamentals-of-QC/blob/main/grover-tutorial-exercises/grover-tutorial-3-exercise.ipynb
+    - Shor's algorithm
+        * Shor's tutorial: https://colab.research.google.com/github/philipparubin/HNCDI-Explain-Fundamentals-of-QC/blob/main/shor-tutorial-exercise.ipynb
     - Exercise 1: https://colab.research.google.com/github/philipparubin/HNCDI-Explain-Beginners-Guide-to-QC/blob/main/1-bell-state-exercise-ibmq.ipynb
     - Exercise 2: https://colab.research.google.com/github/philipparubin/HNCDI-Explain-Beginners-Guide-to-QC/blob/main/2-pi-estimate-exercise.ipynb
 
