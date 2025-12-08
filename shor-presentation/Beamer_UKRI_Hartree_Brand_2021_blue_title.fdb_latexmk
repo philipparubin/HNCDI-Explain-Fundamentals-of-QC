@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1685979027 "Beamer_UKRI_Hartree_Brand_2021_blue_title.tex" "Beamer_UKRI_Hartree_Brand_2021_blue_title.pdf" "Beamer_UKRI_Hartree_Brand_2021_blue_title" 1685979028 0
+["pdflatex"] 1708006237 "Beamer_UKRI_Hartree_Brand_2021_blue_title.tex" "Beamer_UKRI_Hartree_Brand_2021_blue_title.pdf" "Beamer_UKRI_Hartree_Brand_2021_blue_title" 1708006238 0
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/helvetic/phvb8r.tfm" 1136768653 4484 b828043cbd581d289d955903c1339981 ""
@@ -226,13 +226,13 @@
   "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1682337964 4623355 b8cad38412faebe1ce5b780a45db67bd ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1682337894 7883454 ce3411a4b365d4db4d067bd96c386da5 ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "Beamer_UKRI_Hartree_Brand_2021_blue_title.aux" 1685979028 2650 37e6ecf8d9cc7dad6627a2990d7e06b4 "pdflatex"
-  "Beamer_UKRI_Hartree_Brand_2021_blue_title.nav" 1685979028 1349 ecd0cc36fdf58caac313e3c130a6db64 "pdflatex"
-  "Beamer_UKRI_Hartree_Brand_2021_blue_title.out" 1685979028 280 96c0f1a369a68380b10580531222cdd5 "pdflatex"
-  "Beamer_UKRI_Hartree_Brand_2021_blue_title.tex" 1685979026 8958 22877e44f643096702ee2ce0458a1125 ""
-  "Pattern.png" 1621006994 39740 cb128fe6a88bce1ba839509956eb5bd5 ""
-  "UKRI_STFC_HARTREE_CENTRE_RGB.png" 1621004480 37258 ee850e2632f879b150d8acc3304a97ab ""
-  "figs/output.png" 1685976551 10939 ed46727bd6550093635de9a3ebeba92e ""
+  "Beamer_UKRI_Hartree_Brand_2021_blue_title.aux" 1708006238 2650 37e6ecf8d9cc7dad6627a2990d7e06b4 "pdflatex"
+  "Beamer_UKRI_Hartree_Brand_2021_blue_title.nav" 1708006238 1349 ecd0cc36fdf58caac313e3c130a6db64 "pdflatex"
+  "Beamer_UKRI_Hartree_Brand_2021_blue_title.out" 1708006238 280 96c0f1a369a68380b10580531222cdd5 "pdflatex"
+  "Beamer_UKRI_Hartree_Brand_2021_blue_title.tex" 1687855722 8958 0e429efec27582a33428918a1ba1de77 ""
+  "Pattern.png" 1687855722 39740 cb128fe6a88bce1ba839509956eb5bd5 ""
+  "UKRI_STFC_HARTREE_CENTRE_RGB.png" 1687855722 37258 ee850e2632f879b150d8acc3304a97ab ""
+  "figs/output.png" 1687855722 10939 ed46727bd6550093635de9a3ebeba92e ""
   (generated)
   "Beamer_UKRI_Hartree_Brand_2021_blue_title.aux"
   "Beamer_UKRI_Hartree_Brand_2021_blue_title.log"

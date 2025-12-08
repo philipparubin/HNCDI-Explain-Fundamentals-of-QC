@@ -4,16 +4,24 @@ This repository contains files for the HNCDI Explain course, "Fundamentals of Qu
 
 There are two exercises:
 
-1. ```grover-tutorial-<number>-exercise.ipynb``` Upload this file from within the IBM Quantum Lab. There are three Grover tutorials. Understand and implement Grover's searching algorithm. Created by Michael Garn, [michael.garn@stfc.ac.uk]((mailto:michael.garn@stfc.ac.uk)).
+1. ```grover-tutorial-<number>-exercise.ipynb``` There are three Grover tutorials. Understand and implement Grover's searching algorithm. Created by Michael Garn, [michael.garn@stfc.ac.uk]((mailto:michael.garn@stfc.ac.uk)).
 
-2. ```shor-tutorial-exercise.ipynb``` Upload this file from within the IBM Quantum Lab. Understand and implement Shor's prime factorisation algorithm. Created by Dilhan Manawadu, [dilhan.manawadu@stfc.ac.uk](mailto:dilhan.manawadu@stfc.ac.uk).
+2. ```shor-tutorial-exercise.ipynb``` Understand and implement Shor's prime factorisation algorithm. Created by Dilhan Manawadu, [dilhan.manawadu@stfc.ac.uk](mailto:dilhan.manawadu@stfc.ac.uk).
 
 You can get this code in a few different ways, pick whichever you feel confident to do.
 
-Either:
-- **Clone:** Clone this respository and upload the exercise .ipynb files to the IBM Quantum Lab. Run all cells.
-- **Download:** Go to Code > Download ZIP. Open the ZIP file and upload the .ipynb files to the IBM Quantum Lab. Run all cells.
-- **Copy and Paste from GitHub:** Create a new notebook in the IBM Quantum Lab. Copy and paste the commands one cell at a time from the .ipynb files into your new notebook and run each cell with Shift-Enter.
+1. Use the provided links to load the notebooks in a Google Colab environment (Please note that you will require a Google account and an IBM quantum account),
+    - Grover's algorithm
+        * Tutorial 1: https://colab.research.google.com/github/philipparubin/HNCDI-Explain-Fundamentals-of-QC/blob/main/grover-tutorial-exercises/grover-tutorial-1-exercise.ipynb
+        * Tutorial 2: https://colab.research.google.com/github/philipparubin/HNCDI-Explain-Fundamentals-of-QC/blob/main/grover-tutorial-exercises/grover-tutorial-2-exercise.ipynb
+        * Tutorial 3: https://colab.research.google.com/github/philipparubin/HNCDI-Explain-Fundamentals-of-QC/blob/main/grover-tutorial-exercises/grover-tutorial-3-exercise.ipynb
+    - Shor's algorithm
+        * Shor's tutorial: https://colab.research.google.com/github/philipparubin/HNCDI-Explain-Fundamentals-of-QC/blob/main/shor-tutorial-exercise.ipynb
+
+2. Run it locally
+    Either:
+        - **Clone/Download:** Clone/Download this respository and load it using your favourite notebook environment. 
+        - If you would like to run the simulator exercises on your local machine, you can use poetry for notebook requirements. 
 
 ### Local dev instructions (not for participants)
 
