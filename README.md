@@ -4,9 +4,9 @@ This repository contains files for the HNCDI Explain course, "Fundamentals of Qu
 
 There are two exercises:
 
-1. ```grover-tutorial-<number>-exercise.ipynb``` There are three Grover tutorials. Understand and implement Grover's searching algorithm. Created by Michael Garn, [michael.garn@stfc.ac.uk]((mailto:michael.garn@stfc.ac.uk)).
+1. ```grover-tutorial-<number>-exercise.ipynb``` There are three Grover tutorials. Understand and implement Grover's searching algorithm. Originally created by Michael Garn, [michael.garn@stfc.ac.uk]((mailto:michael.garn@stfc.ac.uk)).
 
-2. ```shor-tutorial-exercise.ipynb``` Understand and implement Shor's prime factorisation algorithm. Created by Dilhan Manawadu, [dilhan.manawadu@stfc.ac.uk](mailto:dilhan.manawadu@stfc.ac.uk).
+2. ```shor-tutorial-exercise.ipynb``` Understand and implement Shor's prime factorisation algorithm. Originally created by Dilhan Manawadu, [dilhan.manawadu@stfc.ac.uk](mailto:dilhan.manawadu@stfc.ac.uk).
 
 You can get this code in a few different ways, pick whichever you feel confident to do.
 
