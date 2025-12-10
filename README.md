@@ -10,7 +10,7 @@ There are two exercises:
 
 You can get this code in a few different ways, pick whichever you feel confident to do.
 
-1. Use the provided links to load the notebooks in a Google Colab environment (Please note that you will require a Google account and an IBM quantum account),
+1. Use the provided links to load the notebooks in a Google Colab environment (Please note that you will require a Google account, and an IBM quantum account for the later homework),
     - Grover's algorithm
         * Tutorial 1: https://colab.research.google.com/github/philipparubin/HNCDI-Explain-Fundamentals-of-QC/blob/main/grover-tutorial-exercises/grover-tutorial-1-exercise.ipynb
         * Tutorial 2: https://colab.research.google.com/github/philipparubin/HNCDI-Explain-Fundamentals-of-QC/blob/main/grover-tutorial-exercises/grover-tutorial-2-exercise.ipynb
@@ -18,7 +18,7 @@ You can get this code in a few different ways, pick whichever you feel confident
     - Shor's algorithm
         * Shor's tutorial: https://colab.research.google.com/github/philipparubin/HNCDI-Explain-Fundamentals-of-QC/blob/main/shor-tutorial-exercise.ipynb
 
-2. Run it locally
+2. Run it locally ( not ideal for participants)
     Either:
         - **Clone/Download:** Clone/Download this respository and load it using your favourite notebook environment. 
         - If you would like to run the simulator exercises on your local machine, you can use poetry for notebook requirements. 
