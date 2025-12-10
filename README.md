@@ -9,16 +9,18 @@ There are two exercises:
 
 2. ```grover-tutorial-<number>-exercise.ipynb``` There are three Grover tutorials. Understand and implement Grover's searching algorithm. Originally created by Michael Garn, [michael.garn@stfc.ac.uk](mailto:michael.garn@stfc.ac.uk).
 
-You can get this code in a few different ways, pick whichever you feel confident to do.
+Use the provided links to load the notebooks in a Google Colab environment (Please note that you will require a Google account, and an IBM Quantum account for the later homework if you wish to complete that),
 
-Use the provided links to load the notebooks in a Google Colab environment (Please note that you will require a Google account, and an IBM quantum account for the later homework),
+- Shor's algorithm
 
- - Shor's algorithm
     * Shor's tutorial: https://colab.research.google.com/github/philipparubin/HNCDI-Explain-Fundamentals-of-QC/blob/main/shor-tutorial-exercise.ipynb
 
 - Grover's algorithm
+
     * Tutorial 1: https://colab.research.google.com/github/philipparubin/HNCDI-Explain-Fundamentals-of-QC/blob/main/grover-tutorial-exercises/grover-tutorial-1-exercise.ipynb
+
     * Tutorial 2: https://colab.research.google.com/github/philipparubin/HNCDI-Explain-Fundamentals-of-QC/blob/main/grover-tutorial-exercises/grover-tutorial-2-exercise.ipynb
+    
     * Tutorial 3: https://colab.research.google.com/github/philipparubin/HNCDI-Explain-Fundamentals-of-QC/blob/main/grover-tutorial-exercises/grover-tutorial-3-exercise.ipynb
 
 
